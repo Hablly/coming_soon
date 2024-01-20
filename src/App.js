@@ -39,7 +39,7 @@ function App() {
                 </li>
                 <li>
                   <a
-                    href="https://fr.linkedin.com/in/louis-dietrich-20227b158?trk=people-guest_people_search-card"
+                    href="https://x.com/habllyoff"
                     rel="noreferrer"
                     target="_blank"
                     className="text-white transition hover:text-white/75"
